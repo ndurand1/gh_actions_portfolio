@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Portfolio Nicholas Durand</title>
+    <link>https://npdur.dev/posts/</link>
+    <description>Recent content in Posts on Portfolio Nicholas Durand</description>
+    <generator>Hugo</generator>
+    <language>en-au</language>
+    <lastBuildDate>Mon, 16 Jun 2025 20:35:20 +1000</lastBuildDate>
+    <atom:link href="https://npdur.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://npdur.dev/posts/my-first-post/</link>
+      <pubDate>Mon, 16 Jun 2025 20:35:20 +1000</pubDate>
+      <guid>https://npdur.dev/posts/my-first-post/</guid>
+      <description>&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

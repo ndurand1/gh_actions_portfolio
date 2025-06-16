@@ -1,0 +1,4 @@
+baseURL = 'https://npdur.dev/'
+languageCode = 'en-au'
+title = 'Portfolio Nicholas Durand'
+theme = 'ananke'
